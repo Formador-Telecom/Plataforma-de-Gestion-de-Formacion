@@ -1,0 +1,6 @@
+{
+  "name": "Plataforma de Gestión de Formación",
+  "description": "Plataforma integral y modular para la gestión, control, certificación, capacitación y auditoría de formación empresarial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
